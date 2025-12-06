@@ -1,0 +1,12 @@
+{
+  "name": "tab-title-module",
+  "title": "Tab Title Updater",
+  "description": "Automatically updates the browser tab title to match the world and active scene.",
+  "version": "1.1.0",
+  "author": "Your Name",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "13",
+  "scripts": [
+    "scripts/tab-title.js"
+  ]
+}
