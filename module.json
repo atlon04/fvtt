@@ -1,12 +1,16 @@
 {
   "name": "tab-title-module",
   "title": "Tab Title Updater",
-  "description": "Automatically updates the browser tab title to match the world and active scene.",
+  "description": "<p>Automatically updates the browser tab title to match the world and active scene.</p>",
   "version": "1.1.0",
-  "author": "Your Name",
+  "author": "Atlon04",
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "13",
   "scripts": [
     "scripts/tab-title.js"
-  ]
+  ],
+  "url": "https://github.com/atlon04/fvtt/",
+  "manifest": "https://github.com/atlon04/fvtt/module.json",
+  "download": "https://github.com/atlon04/fvtt/module.zip",
+  "readme": "README.md"
 }
